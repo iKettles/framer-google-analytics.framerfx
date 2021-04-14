@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "8847df03-9926-4030-8688-4041223f0676",
+		"displayName": "Google Analytics"
+	},
+	"author": "Iain Kettles",
+	"name": "@framer/iain.google-analytics",
+	"version": "1.2.0"
+}
